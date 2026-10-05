@@ -1,0 +1,24 @@
+{
+  "formula_engine": {
+    "information": {
+      "authors": "Melty",
+      "name": "1.6L V6 Turbo Hybrid Engine"
+    },
+    "slotType": "formula_engine",
+    "engine": {
+      "idleRPM": 5000,
+      "maxRPM": 15000,
+      "inertia": 0.08,
+      "friction": 18.0,
+      "torque": [
+        [rpm, torque],
+        [0, 0],
+        [5000, 250],
+        [8000, 480],
+        [11000, 620],
+        [13500, 700],
+        [15000, 650]
+      ]
+    }
+  }
+}

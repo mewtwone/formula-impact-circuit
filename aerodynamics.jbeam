@@ -1,0 +1,15 @@
+{
+  "formula_aerodynamics": {
+    "information": {
+      "authors": "Melty",
+      "name": "F1 High-Downforce Aerodynamics"
+    },
+    "slotType": "formula_body",
+    "aerodynamics": {
+      "wingArea": 2.2,
+      "liftCoeff": -4.5,
+      "dragCoeff": 0.85,
+      "stallAngle": 18
+    }
+  }
+}
